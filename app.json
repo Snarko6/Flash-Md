@@ -16,7 +16,7 @@
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
@@ -35,21 +35,21 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"S N A R K O",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/ea14da6e3d042c039df38.jpg",
       "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with eyJub2I...",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUlCS3ZEck1xc2FKZ1pzVlk4bUhnczY0dDlMRFozeTQ1RFdqTi81cWFWaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYzN0VFoxNHF4bVZyOVdZWHNGbVk3MDlpeWlteXNoSTlhSnYrSFE3aXJEYz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0RkpHVFg5YWxlVW5KWm5HUVVuL1l2MSs0WkM3MHNzODlISGFPUVNhMTJRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJYTTFRV2FiMklqdm1vbGticm9lazE5RU15ODFXdjZrRVVBZjJHeUEyK2tNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlFGNVROWHJsZ05scTdkaERDREsvcG03QnEyODZKbmJoQXdxeFFWOXk3Rzg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik5yRVB1bkIvWkVpV1IvUkVEdnNwblBBYkVzdUlRRnlZK0xvclJZQ3JhZ009In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0lvWndwYmNheWJyL3dmUzJ0UktqUUpaU0FhZjRmTCtublVYQnd5ODdGWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSFNzTVhqOGJFandJY3dSM2JvQXlNcGk2RmcySVB2dCsrQ0R4QkFxVmYyUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InBBMHBJdEE5S1RWRmVnWnltc1EzY2o2VTVXNUtUMUVHMEZKaHJEY3dJRVpTUjlpTkxQMHhoaEViRHI1eENmVnV6S2o5QXpFNlBodURIbkZnZUZQc0JRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTE5LCJhZHZTZWNyZXRLZXkiOiJoMlVNQ0ZHNXpHajZJSHd5TCtSSzN3UDRQR0hBVUhCOUV1UkNZZzZGTHk4PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJfWk5XdEhLZlFHLVdPM1dKenVmR2l3IiwicGhvbmVJZCI6ImIxMTgyOTgxLWEzM2EtNDU3NS05OGRjLTI3YWEzZDY2OTkzNCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyelVnOXA2VjE3NlFiT3R6UFBDNlVNZ1RmMlE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWnVVbXh2MzhBaE85TlJPTzdoNUJJelMvbWFBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjdUQ1BXRDhaIiwibWUiOnsiaWQiOiIyMDEwOTU0OTk4NjY6MjdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiTmVHbSBTdGFyIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNTHBMQkRQcTZxd0JoZ0NJQUFvQUE9PSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJFRk85Q051S28wMWJLK29tNDFWc3V2b2ZOWWNSS3lrbFVmcHdhdE9xZEY0PSIsImFjY291bnRTaWduYXR1cmUiOiJnZXpFUzNDdXJKQXNsVTArYnYxOTNHUy9ONnFLZUJLV3Y2OXhtSGJCNUVicmhHZ0RSQnhNMjJBbUxDeVlTQXlLeDNmTktuS2s1aHdWK0tmZGNadHlBQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoibXM2Z0F5VVliR1hGK1BqVlV2ellJUXphTk1jWUlwOHphdVRSV1d3YlFiYldEam1rb3owRUNWNDRzSTh0eXNPZTRyWG5NRVByUFJjbmN5SnczNVVHQlE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMDEwOTU0OTk4NjY6MjdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUkJUdlFqYmlxTk5XeXZxSnVOVmJMcjZIeldIRVNzcEpWSDZjR3JUcW5SZSJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxMTk2OTc1NywibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFOS3UifQ==",
       "required": true
 
     },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "S N A R K O"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254757835036"
+    "value": "201095499866"
   },
     "WARN_COUNT":
   {
